@@ -23,15 +23,15 @@ A modern task management application that allows users to create and manage task
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- Node.js (v14.0.0 or higher)
-- npm (v6.0.0 or higher)
+- Node.js (v18.14.0 or higher)
+- npm (v9.3.1 or higher)
 - OpenAI API key
 
 ## Setup Instructions
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/RohitBasantYadav/natural-language-task-manager-app.git
 cd natural-language-task-manager-app
 ```
 
